@@ -1,5 +1,5 @@
 {
-    "name": "imanghafoori/laravel-microscope",
+    "name": "prigroup/laravel-microscope",
     "description": "Automatically test your laravel application",
     "keywords": [
         "laravel-testing",
