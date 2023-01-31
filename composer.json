@@ -12,6 +12,14 @@
         {
             "type": "vcs",
             "url": "https://github.com/PriGroup/abstract_php_filesystem.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/PriGroup/smart-realtime-facades.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/PriGroup/php-smart-search-replace.git"
         }
     ],
     "authors": [
@@ -25,9 +33,9 @@
         "php": "^7.1.3|8.0.*|8.1.*|8.2.*",
         "imanghafoori/composer-json": "1.*",
         "prigroup/php-abstract-filesystem": "^0.1.5",
-        "imanghafoori/php-search-replace": "1.1.8",
+        "prigroup/php-search-replace": "1.1.10",
+        "prigroup/smart-realtime-facades": "^1.1.6",
         "imanghafoori/php-token-analyzer": "^0.1.42",
-        "imanghafoori/smart-realtime-facades": "^1.1.4",
         "jetbrains/phpstorm-attributes" : "1.*",
         "laravel/framework": "5.*|6.*|7.*|8.*|9.*|10.*"
     },
